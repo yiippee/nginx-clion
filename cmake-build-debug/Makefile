@@ -3336,6 +3336,492 @@ src/os/unix/ngx_writev_chain.c.s:
 	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/os/unix/ngx_writev_chain.c.s
 .PHONY : src/os/unix/ngx_writev_chain.c.s
 
+src/stream/ngx_stream.o: src/stream/ngx_stream.c.o
+
+.PHONY : src/stream/ngx_stream.o
+
+# target to build an object file
+src/stream/ngx_stream.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o
+.PHONY : src/stream/ngx_stream.c.o
+
+src/stream/ngx_stream.i: src/stream/ngx_stream.c.i
+
+.PHONY : src/stream/ngx_stream.i
+
+# target to preprocess a source file
+src/stream/ngx_stream.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream.c.i
+.PHONY : src/stream/ngx_stream.c.i
+
+src/stream/ngx_stream.s: src/stream/ngx_stream.c.s
+
+.PHONY : src/stream/ngx_stream.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream.c.s
+.PHONY : src/stream/ngx_stream.c.s
+
+src/stream/ngx_stream_access_module.o: src/stream/ngx_stream_access_module.c.o
+
+.PHONY : src/stream/ngx_stream_access_module.o
+
+# target to build an object file
+src/stream/ngx_stream_access_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o
+.PHONY : src/stream/ngx_stream_access_module.c.o
+
+src/stream/ngx_stream_access_module.i: src/stream/ngx_stream_access_module.c.i
+
+.PHONY : src/stream/ngx_stream_access_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_access_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.i
+.PHONY : src/stream/ngx_stream_access_module.c.i
+
+src/stream/ngx_stream_access_module.s: src/stream/ngx_stream_access_module.c.s
+
+.PHONY : src/stream/ngx_stream_access_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_access_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.s
+.PHONY : src/stream/ngx_stream_access_module.c.s
+
+src/stream/ngx_stream_core_module.o: src/stream/ngx_stream_core_module.c.o
+
+.PHONY : src/stream/ngx_stream_core_module.o
+
+# target to build an object file
+src/stream/ngx_stream_core_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o
+.PHONY : src/stream/ngx_stream_core_module.c.o
+
+src/stream/ngx_stream_core_module.i: src/stream/ngx_stream_core_module.c.i
+
+.PHONY : src/stream/ngx_stream_core_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_core_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.i
+.PHONY : src/stream/ngx_stream_core_module.c.i
+
+src/stream/ngx_stream_core_module.s: src/stream/ngx_stream_core_module.c.s
+
+.PHONY : src/stream/ngx_stream_core_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_core_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.s
+.PHONY : src/stream/ngx_stream_core_module.c.s
+
+src/stream/ngx_stream_handler.o: src/stream/ngx_stream_handler.c.o
+
+.PHONY : src/stream/ngx_stream_handler.o
+
+# target to build an object file
+src/stream/ngx_stream_handler.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o
+.PHONY : src/stream/ngx_stream_handler.c.o
+
+src/stream/ngx_stream_handler.i: src/stream/ngx_stream_handler.c.i
+
+.PHONY : src/stream/ngx_stream_handler.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_handler.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.i
+.PHONY : src/stream/ngx_stream_handler.c.i
+
+src/stream/ngx_stream_handler.s: src/stream/ngx_stream_handler.c.s
+
+.PHONY : src/stream/ngx_stream_handler.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_handler.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.s
+.PHONY : src/stream/ngx_stream_handler.c.s
+
+src/stream/ngx_stream_limit_conn_module.o: src/stream/ngx_stream_limit_conn_module.c.o
+
+.PHONY : src/stream/ngx_stream_limit_conn_module.o
+
+# target to build an object file
+src/stream/ngx_stream_limit_conn_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o
+.PHONY : src/stream/ngx_stream_limit_conn_module.c.o
+
+src/stream/ngx_stream_limit_conn_module.i: src/stream/ngx_stream_limit_conn_module.c.i
+
+.PHONY : src/stream/ngx_stream_limit_conn_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_limit_conn_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.i
+.PHONY : src/stream/ngx_stream_limit_conn_module.c.i
+
+src/stream/ngx_stream_limit_conn_module.s: src/stream/ngx_stream_limit_conn_module.c.s
+
+.PHONY : src/stream/ngx_stream_limit_conn_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_limit_conn_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.s
+.PHONY : src/stream/ngx_stream_limit_conn_module.c.s
+
+src/stream/ngx_stream_log_module.o: src/stream/ngx_stream_log_module.c.o
+
+.PHONY : src/stream/ngx_stream_log_module.o
+
+# target to build an object file
+src/stream/ngx_stream_log_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o
+.PHONY : src/stream/ngx_stream_log_module.c.o
+
+src/stream/ngx_stream_log_module.i: src/stream/ngx_stream_log_module.c.i
+
+.PHONY : src/stream/ngx_stream_log_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_log_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.i
+.PHONY : src/stream/ngx_stream_log_module.c.i
+
+src/stream/ngx_stream_log_module.s: src/stream/ngx_stream_log_module.c.s
+
+.PHONY : src/stream/ngx_stream_log_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_log_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.s
+.PHONY : src/stream/ngx_stream_log_module.c.s
+
+src/stream/ngx_stream_map_module.o: src/stream/ngx_stream_map_module.c.o
+
+.PHONY : src/stream/ngx_stream_map_module.o
+
+# target to build an object file
+src/stream/ngx_stream_map_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o
+.PHONY : src/stream/ngx_stream_map_module.c.o
+
+src/stream/ngx_stream_map_module.i: src/stream/ngx_stream_map_module.c.i
+
+.PHONY : src/stream/ngx_stream_map_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_map_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.i
+.PHONY : src/stream/ngx_stream_map_module.c.i
+
+src/stream/ngx_stream_map_module.s: src/stream/ngx_stream_map_module.c.s
+
+.PHONY : src/stream/ngx_stream_map_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_map_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.s
+.PHONY : src/stream/ngx_stream_map_module.c.s
+
+src/stream/ngx_stream_proxy_module.o: src/stream/ngx_stream_proxy_module.c.o
+
+.PHONY : src/stream/ngx_stream_proxy_module.o
+
+# target to build an object file
+src/stream/ngx_stream_proxy_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o
+.PHONY : src/stream/ngx_stream_proxy_module.c.o
+
+src/stream/ngx_stream_proxy_module.i: src/stream/ngx_stream_proxy_module.c.i
+
+.PHONY : src/stream/ngx_stream_proxy_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_proxy_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.i
+.PHONY : src/stream/ngx_stream_proxy_module.c.i
+
+src/stream/ngx_stream_proxy_module.s: src/stream/ngx_stream_proxy_module.c.s
+
+.PHONY : src/stream/ngx_stream_proxy_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_proxy_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.s
+.PHONY : src/stream/ngx_stream_proxy_module.c.s
+
+src/stream/ngx_stream_realip_module.o: src/stream/ngx_stream_realip_module.c.o
+
+.PHONY : src/stream/ngx_stream_realip_module.o
+
+# target to build an object file
+src/stream/ngx_stream_realip_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o
+.PHONY : src/stream/ngx_stream_realip_module.c.o
+
+src/stream/ngx_stream_realip_module.i: src/stream/ngx_stream_realip_module.c.i
+
+.PHONY : src/stream/ngx_stream_realip_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_realip_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.i
+.PHONY : src/stream/ngx_stream_realip_module.c.i
+
+src/stream/ngx_stream_realip_module.s: src/stream/ngx_stream_realip_module.c.s
+
+.PHONY : src/stream/ngx_stream_realip_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_realip_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.s
+.PHONY : src/stream/ngx_stream_realip_module.c.s
+
+src/stream/ngx_stream_return_module.o: src/stream/ngx_stream_return_module.c.o
+
+.PHONY : src/stream/ngx_stream_return_module.o
+
+# target to build an object file
+src/stream/ngx_stream_return_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o
+.PHONY : src/stream/ngx_stream_return_module.c.o
+
+src/stream/ngx_stream_return_module.i: src/stream/ngx_stream_return_module.c.i
+
+.PHONY : src/stream/ngx_stream_return_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_return_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.i
+.PHONY : src/stream/ngx_stream_return_module.c.i
+
+src/stream/ngx_stream_return_module.s: src/stream/ngx_stream_return_module.c.s
+
+.PHONY : src/stream/ngx_stream_return_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_return_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.s
+.PHONY : src/stream/ngx_stream_return_module.c.s
+
+src/stream/ngx_stream_script.o: src/stream/ngx_stream_script.c.o
+
+.PHONY : src/stream/ngx_stream_script.o
+
+# target to build an object file
+src/stream/ngx_stream_script.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o
+.PHONY : src/stream/ngx_stream_script.c.o
+
+src/stream/ngx_stream_script.i: src/stream/ngx_stream_script.c.i
+
+.PHONY : src/stream/ngx_stream_script.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_script.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.i
+.PHONY : src/stream/ngx_stream_script.c.i
+
+src/stream/ngx_stream_script.s: src/stream/ngx_stream_script.c.s
+
+.PHONY : src/stream/ngx_stream_script.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_script.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.s
+.PHONY : src/stream/ngx_stream_script.c.s
+
+src/stream/ngx_stream_split_clients_module.o: src/stream/ngx_stream_split_clients_module.c.o
+
+.PHONY : src/stream/ngx_stream_split_clients_module.o
+
+# target to build an object file
+src/stream/ngx_stream_split_clients_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o
+.PHONY : src/stream/ngx_stream_split_clients_module.c.o
+
+src/stream/ngx_stream_split_clients_module.i: src/stream/ngx_stream_split_clients_module.c.i
+
+.PHONY : src/stream/ngx_stream_split_clients_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_split_clients_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.i
+.PHONY : src/stream/ngx_stream_split_clients_module.c.i
+
+src/stream/ngx_stream_split_clients_module.s: src/stream/ngx_stream_split_clients_module.c.s
+
+.PHONY : src/stream/ngx_stream_split_clients_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_split_clients_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.s
+.PHONY : src/stream/ngx_stream_split_clients_module.c.s
+
+src/stream/ngx_stream_upstream.o: src/stream/ngx_stream_upstream.c.o
+
+.PHONY : src/stream/ngx_stream_upstream.o
+
+# target to build an object file
+src/stream/ngx_stream_upstream.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o
+.PHONY : src/stream/ngx_stream_upstream.c.o
+
+src/stream/ngx_stream_upstream.i: src/stream/ngx_stream_upstream.c.i
+
+.PHONY : src/stream/ngx_stream_upstream.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_upstream.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.i
+.PHONY : src/stream/ngx_stream_upstream.c.i
+
+src/stream/ngx_stream_upstream.s: src/stream/ngx_stream_upstream.c.s
+
+.PHONY : src/stream/ngx_stream_upstream.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_upstream.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.s
+.PHONY : src/stream/ngx_stream_upstream.c.s
+
+src/stream/ngx_stream_upstream_hash_module.o: src/stream/ngx_stream_upstream_hash_module.c.o
+
+.PHONY : src/stream/ngx_stream_upstream_hash_module.o
+
+# target to build an object file
+src/stream/ngx_stream_upstream_hash_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o
+.PHONY : src/stream/ngx_stream_upstream_hash_module.c.o
+
+src/stream/ngx_stream_upstream_hash_module.i: src/stream/ngx_stream_upstream_hash_module.c.i
+
+.PHONY : src/stream/ngx_stream_upstream_hash_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_upstream_hash_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.i
+.PHONY : src/stream/ngx_stream_upstream_hash_module.c.i
+
+src/stream/ngx_stream_upstream_hash_module.s: src/stream/ngx_stream_upstream_hash_module.c.s
+
+.PHONY : src/stream/ngx_stream_upstream_hash_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_upstream_hash_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.s
+.PHONY : src/stream/ngx_stream_upstream_hash_module.c.s
+
+src/stream/ngx_stream_upstream_least_conn_module.o: src/stream/ngx_stream_upstream_least_conn_module.c.o
+
+.PHONY : src/stream/ngx_stream_upstream_least_conn_module.o
+
+# target to build an object file
+src/stream/ngx_stream_upstream_least_conn_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o
+.PHONY : src/stream/ngx_stream_upstream_least_conn_module.c.o
+
+src/stream/ngx_stream_upstream_least_conn_module.i: src/stream/ngx_stream_upstream_least_conn_module.c.i
+
+.PHONY : src/stream/ngx_stream_upstream_least_conn_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_upstream_least_conn_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.i
+.PHONY : src/stream/ngx_stream_upstream_least_conn_module.c.i
+
+src/stream/ngx_stream_upstream_least_conn_module.s: src/stream/ngx_stream_upstream_least_conn_module.c.s
+
+.PHONY : src/stream/ngx_stream_upstream_least_conn_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_upstream_least_conn_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.s
+.PHONY : src/stream/ngx_stream_upstream_least_conn_module.c.s
+
+src/stream/ngx_stream_upstream_round_robin.o: src/stream/ngx_stream_upstream_round_robin.c.o
+
+.PHONY : src/stream/ngx_stream_upstream_round_robin.o
+
+# target to build an object file
+src/stream/ngx_stream_upstream_round_robin.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o
+.PHONY : src/stream/ngx_stream_upstream_round_robin.c.o
+
+src/stream/ngx_stream_upstream_round_robin.i: src/stream/ngx_stream_upstream_round_robin.c.i
+
+.PHONY : src/stream/ngx_stream_upstream_round_robin.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_upstream_round_robin.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.i
+.PHONY : src/stream/ngx_stream_upstream_round_robin.c.i
+
+src/stream/ngx_stream_upstream_round_robin.s: src/stream/ngx_stream_upstream_round_robin.c.s
+
+.PHONY : src/stream/ngx_stream_upstream_round_robin.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_upstream_round_robin.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.s
+.PHONY : src/stream/ngx_stream_upstream_round_robin.c.s
+
+src/stream/ngx_stream_variables.o: src/stream/ngx_stream_variables.c.o
+
+.PHONY : src/stream/ngx_stream_variables.o
+
+# target to build an object file
+src/stream/ngx_stream_variables.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o
+.PHONY : src/stream/ngx_stream_variables.c.o
+
+src/stream/ngx_stream_variables.i: src/stream/ngx_stream_variables.c.i
+
+.PHONY : src/stream/ngx_stream_variables.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_variables.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.i
+.PHONY : src/stream/ngx_stream_variables.c.i
+
+src/stream/ngx_stream_variables.s: src/stream/ngx_stream_variables.c.s
+
+.PHONY : src/stream/ngx_stream_variables.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_variables.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.s
+.PHONY : src/stream/ngx_stream_variables.c.s
+
+src/stream/ngx_stream_write_filter_module.o: src/stream/ngx_stream_write_filter_module.c.o
+
+.PHONY : src/stream/ngx_stream_write_filter_module.o
+
+# target to build an object file
+src/stream/ngx_stream_write_filter_module.c.o:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o
+.PHONY : src/stream/ngx_stream_write_filter_module.c.o
+
+src/stream/ngx_stream_write_filter_module.i: src/stream/ngx_stream_write_filter_module.c.i
+
+.PHONY : src/stream/ngx_stream_write_filter_module.i
+
+# target to preprocess a source file
+src/stream/ngx_stream_write_filter_module.c.i:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.i
+.PHONY : src/stream/ngx_stream_write_filter_module.c.i
+
+src/stream/ngx_stream_write_filter_module.s: src/stream/ngx_stream_write_filter_module.c.s
+
+.PHONY : src/stream/ngx_stream_write_filter_module.s
+
+# target to generate assembly for a file
+src/stream/ngx_stream_write_filter_module.c.s:
+	$(MAKE) -f CMakeFiles/nginx.dir/build.make CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.s
+.PHONY : src/stream/ngx_stream_write_filter_module.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -3702,6 +4188,60 @@ help:
 	@echo "... src/os/unix/ngx_writev_chain.o"
 	@echo "... src/os/unix/ngx_writev_chain.i"
 	@echo "... src/os/unix/ngx_writev_chain.s"
+	@echo "... src/stream/ngx_stream.o"
+	@echo "... src/stream/ngx_stream.i"
+	@echo "... src/stream/ngx_stream.s"
+	@echo "... src/stream/ngx_stream_access_module.o"
+	@echo "... src/stream/ngx_stream_access_module.i"
+	@echo "... src/stream/ngx_stream_access_module.s"
+	@echo "... src/stream/ngx_stream_core_module.o"
+	@echo "... src/stream/ngx_stream_core_module.i"
+	@echo "... src/stream/ngx_stream_core_module.s"
+	@echo "... src/stream/ngx_stream_handler.o"
+	@echo "... src/stream/ngx_stream_handler.i"
+	@echo "... src/stream/ngx_stream_handler.s"
+	@echo "... src/stream/ngx_stream_limit_conn_module.o"
+	@echo "... src/stream/ngx_stream_limit_conn_module.i"
+	@echo "... src/stream/ngx_stream_limit_conn_module.s"
+	@echo "... src/stream/ngx_stream_log_module.o"
+	@echo "... src/stream/ngx_stream_log_module.i"
+	@echo "... src/stream/ngx_stream_log_module.s"
+	@echo "... src/stream/ngx_stream_map_module.o"
+	@echo "... src/stream/ngx_stream_map_module.i"
+	@echo "... src/stream/ngx_stream_map_module.s"
+	@echo "... src/stream/ngx_stream_proxy_module.o"
+	@echo "... src/stream/ngx_stream_proxy_module.i"
+	@echo "... src/stream/ngx_stream_proxy_module.s"
+	@echo "... src/stream/ngx_stream_realip_module.o"
+	@echo "... src/stream/ngx_stream_realip_module.i"
+	@echo "... src/stream/ngx_stream_realip_module.s"
+	@echo "... src/stream/ngx_stream_return_module.o"
+	@echo "... src/stream/ngx_stream_return_module.i"
+	@echo "... src/stream/ngx_stream_return_module.s"
+	@echo "... src/stream/ngx_stream_script.o"
+	@echo "... src/stream/ngx_stream_script.i"
+	@echo "... src/stream/ngx_stream_script.s"
+	@echo "... src/stream/ngx_stream_split_clients_module.o"
+	@echo "... src/stream/ngx_stream_split_clients_module.i"
+	@echo "... src/stream/ngx_stream_split_clients_module.s"
+	@echo "... src/stream/ngx_stream_upstream.o"
+	@echo "... src/stream/ngx_stream_upstream.i"
+	@echo "... src/stream/ngx_stream_upstream.s"
+	@echo "... src/stream/ngx_stream_upstream_hash_module.o"
+	@echo "... src/stream/ngx_stream_upstream_hash_module.i"
+	@echo "... src/stream/ngx_stream_upstream_hash_module.s"
+	@echo "... src/stream/ngx_stream_upstream_least_conn_module.o"
+	@echo "... src/stream/ngx_stream_upstream_least_conn_module.i"
+	@echo "... src/stream/ngx_stream_upstream_least_conn_module.s"
+	@echo "... src/stream/ngx_stream_upstream_round_robin.o"
+	@echo "... src/stream/ngx_stream_upstream_round_robin.i"
+	@echo "... src/stream/ngx_stream_upstream_round_robin.s"
+	@echo "... src/stream/ngx_stream_variables.o"
+	@echo "... src/stream/ngx_stream_variables.i"
+	@echo "... src/stream/ngx_stream_variables.s"
+	@echo "... src/stream/ngx_stream_write_filter_module.o"
+	@echo "... src/stream/ngx_stream_write_filter_module.i"
+	@echo "... src/stream/ngx_stream_write_filter_module.s"
 .PHONY : help
 
 

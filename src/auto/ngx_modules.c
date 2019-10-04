@@ -35,6 +35,16 @@ extern ngx_module_t  ngx_http_scgi_module;
 extern ngx_module_t  ngx_http_memcached_module;
 extern ngx_module_t  ngx_http_empty_gif_module;
 extern ngx_module_t  ngx_http_upsync_module;
+  extern ngx_module_t ngx_stream_module; // tcp stream
+  extern ngx_module_t ngx_stream_access_module;
+  extern ngx_module_t ngx_stream_core_module;
+  extern ngx_module_t ngx_stream_limit_conn_module;
+  extern ngx_module_t ngx_stream_log_module;
+  extern ngx_module_t ngx_stream_proxy_module;
+  extern ngx_module_t ngx_stream_realip_module;
+  extern ngx_module_t ngx_stream_return_module;
+  extern ngx_module_t ngx_stream_upstream_hash_module;
+  extern ngx_module_t ngx_stream_write_filter_module;
 extern ngx_module_t  ngx_http_browser_module;
 extern ngx_module_t  ngx_http_upstream_hash_module;
 extern ngx_module_t  ngx_http_upstream_ip_hash_module;
@@ -89,6 +99,16 @@ ngx_module_t *ngx_modules[] = {
     &ngx_http_memcached_module,
     &ngx_http_empty_gif_module,
     &ngx_http_upsync_module,
+        &ngx_stream_module,
+        &ngx_stream_access_module,
+        &ngx_stream_core_module,
+        &ngx_stream_limit_conn_module,
+        &ngx_stream_log_module,
+        &ngx_stream_proxy_module,
+        &ngx_stream_realip_module,
+        &ngx_stream_return_module,
+        &ngx_stream_upstream_hash_module,
+        &ngx_stream_write_filter_module,
     &ngx_http_browser_module,
     &ngx_http_upstream_hash_module,
     &ngx_http_upstream_ip_hash_module,
@@ -144,6 +164,16 @@ char *ngx_module_names[] = {
     "ngx_http_empty_gif_module",
     "ngx_http_browser_module",
     "ngx_http_upsync_module",
+        "ngx_stream_module", // tcp stream module
+        "ngx_stream_access_module",
+        "ngx_stream_core_module",
+        "ngx_stream_limit_conn_module",
+        "ngx_stream_log_module",
+        "ngx_stream_proxy_module",
+        "ngx_stream_realip_module",
+        "ngx_stream_return_module",
+        "ngx_stream_upstream_hash_module",
+        "ngx_stream_write_filter_module",
     "ngx_http_upstream_hash_module",
     "ngx_http_upstream_ip_hash_module",
     "ngx_http_upstream_least_conn_module",

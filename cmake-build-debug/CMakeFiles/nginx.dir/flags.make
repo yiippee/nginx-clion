@@ -6,5 +6,5 @@ C_FLAGS = -pipe -Wall -Wextra -Wpointer-arith -Wno-uninitialized -Wno-unused-par
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/lzb/nginx-master/src/auto -I/home/lzb/nginx-master/src/core -I/home/lzb/nginx-master/src/event -I/home/lzb/nginx-master/src/http -I/home/lzb/nginx-master/src/http/modules -I/home/lzb/nginx-master/src/os -I/home/lzb/nginx-master/src/os/unix 
+C_INCLUDES = -I/home/lzb/nginx-master/src/auto -I/home/lzb/nginx-master/src/core -I/home/lzb/nginx-master/src/event -I/home/lzb/nginx-master/src/http -I/home/lzb/nginx-master/src/http/modules -I/home/lzb/nginx-master/src/os -I/home/lzb/nginx-master/src/os/unix -I/home/lzb/nginx-master/src/stream 
 

@@ -8,6 +8,8 @@
 #include <ngx_config.h>
 #include <ngx_core.h>
 #include <ngx_event.h>
+#include <openssl/ossl_typ.h>
+#include "ngx_event_openssl.h"
 
 
 #define NGX_SSL_PASSWORD_BUFFER_SIZE  4096

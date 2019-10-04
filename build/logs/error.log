@@ -5,3 +5,20 @@
 2018/01/02 13:19:09 [emerg] 52637#0: unknown directive "check" in /Users/admin/u51/learn/workspace/clion/nginx/build/conf/nginx.conf:34
 2018/01/02 13:24:48 [emerg] 53466#0: unknown directive "upsync" in /Users/admin/u51/learn/workspace/clion/nginx/build/conf/nginx.conf:31
 2018/01/02 13:25:28 [emerg] 53849#0: unknown directive "upsync" in /Users/admin/u51/learn/workspace/clion/nginx/build/conf/nginx.conf:31
+2019/10/01 17:10:41 [emerg] 19293#0: unknown directive "stream" in /home/lzb/nginx-master/build/conf/nginx.conf:14
+2019/10/01 19:30:36 [emerg] 19393#0: unknown directive "stream" in /home/lzb/nginx-master/build/conf/nginx.conf:14
+2019/10/02 11:04:16 [emerg] 22995#0: unknown directive "stream" in /home/lzb/nginx-master/build/conf/nginx.conf:14
+2019/10/02 11:06:22 [emerg] 23045#0: unknown directive "stream" in /home/lzb/nginx-master/build/conf/nginx.conf:14
+2019/10/02 11:27:53 [emerg] 23104#0: unknown directive "stream" in /home/lzb/nginx-master/build/conf/nginx.conf:14
+2019/10/02 11:28:28 [emerg] 23135#0: host not found in upstream "ng_rs_test" in /home/lzb/nginx-master/build/conf/nginx.conf:46
+2019/10/02 11:46:03 [emerg] 23370#0: host not found in upstream "ng_rs_test" in /home/lzb/nginx-master/build/conf/nginx.conf:46
+2019/10/02 11:46:54 [emerg] 23406#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/10/02 11:56:03 [emerg] 23558#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/10/02 12:05:50 [emerg] 23673#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/10/02 12:20:59 [emerg] 23776#0: "server" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:61
+2019/10/02 15:56:31 [emerg] 24110#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/10/02 16:25:41 [emerg] 26947#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/10/02 16:36:27 [emerg] 27103#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/10/02 16:37:10 [emerg] 27142#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/10/02 16:40:54 [emerg] 27203#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/10/02 16:50:24 [emerg] 27377#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59

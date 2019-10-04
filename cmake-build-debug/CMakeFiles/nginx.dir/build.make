@@ -1604,6 +1604,240 @@ CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_upsync_module.c.s: cmake_f
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_upsync_module.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/nginx-upsync-module/src/ngx_http_upsync_module.c -o CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_upsync_module.c.s
 
+CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o: ../src/stream/ngx_stream.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream.c > CMakeFiles/nginx.dir/src/stream/ngx_stream.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o: ../src/stream/ngx_stream_access_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_access_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_access_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_access_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o: ../src/stream/ngx_stream_core_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_core_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_core_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_core_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o: ../src/stream/ngx_stream_handler.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_handler.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_handler.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_handler.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o: ../src/stream/ngx_stream_limit_conn_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_limit_conn_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_limit_conn_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_limit_conn_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o: ../src/stream/ngx_stream_log_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_log_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_log_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_log_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o: ../src/stream/ngx_stream_map_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_map_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_map_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_map_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o: ../src/stream/ngx_stream_proxy_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_proxy_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_proxy_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_proxy_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o: ../src/stream/ngx_stream_return_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_return_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_return_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_return_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o: ../src/stream/ngx_stream_realip_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_realip_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_realip_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_realip_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o: ../src/stream/ngx_stream_script.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_script.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_script.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_script.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o: ../src/stream/ngx_stream_split_clients_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_split_clients_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_split_clients_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_split_clients_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o: ../src/stream/ngx_stream_upstream.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_upstream.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_upstream.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_upstream.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o: ../src/stream/ngx_stream_upstream_hash_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_upstream_hash_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_upstream_hash_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_upstream_hash_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o: ../src/stream/ngx_stream_upstream_least_conn_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_upstream_least_conn_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_upstream_least_conn_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_upstream_least_conn_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o: ../src/stream/ngx_stream_upstream_round_robin.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_upstream_round_robin.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_upstream_round_robin.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_upstream_round_robin.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o: ../src/stream/ngx_stream_variables.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_variables.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_variables.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_variables.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.s
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o: CMakeFiles/nginx.dir/flags.make
+CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o: ../src/stream/ngx_stream_write_filter_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o   -c /home/lzb/nginx-master/src/stream/ngx_stream_write_filter_module.c
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lzb/nginx-master/src/stream/ngx_stream_write_filter_module.c > CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.i
+
+CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lzb/nginx-master/src/stream/ngx_stream_write_filter_module.c -o CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.s
+
 # Object files for target nginx
 nginx_OBJECTS = \
 "CMakeFiles/nginx.dir/src/core/nginx.c.o" \
@@ -1724,7 +1958,25 @@ nginx_OBJECTS = \
 "CMakeFiles/nginx.dir/src/auto/ngx_modules.c.o" \
 "CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_json.c.o" \
 "CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_parser.c.o" \
-"CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_upsync_module.c.o"
+"CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_upsync_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o" \
+"CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o"
 
 # External object files for target nginx
 nginx_EXTERNAL_OBJECTS =
@@ -1848,9 +2100,27 @@ nginx: CMakeFiles/nginx.dir/src/auto/ngx_modules.c.o
 nginx: CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_json.c.o
 nginx: CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_parser.c.o
 nginx: CMakeFiles/nginx.dir/nginx-upsync-module/src/ngx_http_upsync_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o
+nginx: CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o
 nginx: CMakeFiles/nginx.dir/build.make
 nginx: CMakeFiles/nginx.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Linking C executable nginx"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lzb/nginx-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Linking C executable nginx"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/nginx.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

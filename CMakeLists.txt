@@ -12,7 +12,8 @@ include_directories(src/auto
         src/http
         src/http/modules
         src/os
-        src/os/unix)
+        src/os/unix
+		src/stream)
 
 set(SOURCE_FILES 
         src/core/nginx.c
@@ -56,6 +57,8 @@ set(SOURCE_FILES
     src/event/ngx_event_accept.c
     src/event/ngx_event_connect.c
     src/event/ngx_event_pipe.c
+		#src/event/ngx_event_openssl.h
+		#src/event/ngx_event_openssl.c
 
     src/os/unix/ngx_time.c
     src/os/unix/ngx_errno.c
@@ -140,7 +143,35 @@ set(SOURCE_FILES
 	nginx-upsync-module/src/ngx_http_parser.h
 	nginx-upsync-module/src/ngx_http_parser.c
 	nginx-upsync-module/src/ngx_http_upsync_module.h
-	nginx-upsync-module/src/ngx_http_upsync_module.c)
+	nginx-upsync-module/src/ngx_http_upsync_module.c
+		src/stream/ngx_stream.h
+		src/stream/ngx_stream.c
+		src/stream/ngx_stream_access_module.c
+		src/stream/ngx_stream_core_module.c
+		#src/stream/ngx_stream_geo_module.c
+		#src/stream/ngx_stream_geoip_module.c
+		src/stream/ngx_stream_handler.c
+		src/stream/ngx_stream_limit_conn_module.c
+		src/stream/ngx_stream_log_module.c
+		src/stream/ngx_stream_map_module.c
+		src/stream/ngx_stream_proxy_module.c
+		src/stream/ngx_stream_return_module.c
+		src/stream/ngx_stream_realip_module.c
+		src/stream/ngx_stream_script.h
+		src/stream/ngx_stream_script.c
+		src/stream/ngx_stream_split_clients_module.c
+		# src/stream/ngx_stream_ssl_module.h
+		# src/stream/ngx_stream_ssl_module.c
+		src/stream/ngx_stream_upstream.h
+		src/stream/ngx_stream_upstream.c
+		src/stream/ngx_stream_upstream_hash_module.c
+		src/stream/ngx_stream_upstream_least_conn_module.c
+		src/stream/ngx_stream_upstream_round_robin.h
+		src/stream/ngx_stream_upstream_round_robin.c
+		# src/stream/ngx_stream_upstream_zone_module.c
+		src/stream/ngx_stream_variables.h
+		src/stream/ngx_stream_variables.c
+		src/stream/ngx_stream_write_filter_module.c)
 
 
 add_executable(nginx ${SOURCE_FILES})

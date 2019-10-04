@@ -41,6 +41,7 @@
 					<Add directory="/home/lzb/nginx-master/src/http/modules"/>
 					<Add directory="/home/lzb/nginx-master/src/os"/>
 					<Add directory="/home/lzb/nginx-master/src/os/unix"/>
+					<Add directory="/home/lzb/nginx-master/src/stream"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -71,6 +72,7 @@
 					<Add directory="/home/lzb/nginx-master/src/http/modules"/>
 					<Add directory="/home/lzb/nginx-master/src/os"/>
 					<Add directory="/home/lzb/nginx-master/src/os/unix"/>
+					<Add directory="/home/lzb/nginx-master/src/stream"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -639,6 +641,75 @@
 			<Option target="nginx"/>
 		</Unit>
 		<Unit filename="/home/lzb/nginx-master/src/os/unix/ngx_writev_chain.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream.h">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_access_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_core_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_handler.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_limit_conn_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_log_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_map_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_proxy_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_realip_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_return_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_script.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_script.h">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_split_clients_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_upstream.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_upstream.h">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_upstream_hash_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_upstream_least_conn_module.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_upstream_round_robin.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_upstream_round_robin.h">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_variables.c">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_variables.h">
+			<Option target="nginx"/>
+		</Unit>
+		<Unit filename="/home/lzb/nginx-master/src/stream/ngx_stream_write_filter_module.c">
 			<Option target="nginx"/>
 		</Unit>
 		<Unit filename="/home/lzb/nginx-master/CMakeLists.txt">

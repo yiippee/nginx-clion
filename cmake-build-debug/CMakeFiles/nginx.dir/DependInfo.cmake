@@ -123,6 +123,24 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/lzb/nginx-master/src/os/unix/ngx_udp_sendmsg_chain.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/os/unix/ngx_udp_sendmsg_chain.c.o"
   "/home/lzb/nginx-master/src/os/unix/ngx_user.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/os/unix/ngx_user.c.o"
   "/home/lzb/nginx-master/src/os/unix/ngx_writev_chain.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/os/unix/ngx_writev_chain.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_access_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_access_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_core_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_core_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_handler.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_handler.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_limit_conn_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_limit_conn_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_log_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_log_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_map_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_map_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_proxy_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_proxy_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_realip_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_realip_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_return_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_return_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_script.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_script.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_split_clients_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_split_clients_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_upstream.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_upstream_hash_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_hash_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_upstream_least_conn_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_least_conn_module.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_upstream_round_robin.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_upstream_round_robin.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_variables.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_variables.c.o"
+  "/home/lzb/nginx-master/src/stream/ngx_stream_write_filter_module.c" "/home/lzb/nginx-master/cmake-build-debug/CMakeFiles/nginx.dir/src/stream/ngx_stream_write_filter_module.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -135,6 +153,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../src/http/modules"
   "../src/os"
   "../src/os/unix"
+  "../src/stream"
   )
 
 # Targets to which this target links.
