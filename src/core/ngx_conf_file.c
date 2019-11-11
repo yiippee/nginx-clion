@@ -372,13 +372,13 @@ ngx_conf_handler(ngx_conf_t *cf, ngx_int_t last)
 
     for (i = 0; cf->cycle->modules[i]; i++) {
 
-        if (i == 58) {
-            ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
-                               "\"%s\" test", name->data);
-        }
+//        if (i == 58) {
+//            ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
+//                               "\"%s\" test", name->data);
+//        }
         // print each module name
-        ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
-                           "\"%s\" ", cf->cycle->modules[i]->name);
+//        ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
+//                           "\"%s\" ", cf->cycle->modules[i]->name);
 
         cmd = cf->cycle->modules[i]->commands;
         if (cmd == NULL) {
