@@ -22,3 +22,1327 @@
 2019/10/02 16:37:10 [emerg] 27142#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
 2019/10/02 16:40:54 [emerg] 27203#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
 2019/10/02 16:50:24 [emerg] 27377#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/11/10 21:04:20 [emerg] 9499#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/11/10 21:05:36 [emerg] 9542#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/11/10 21:11:49 [emerg] 9648#0: no handler for server in /home/lzb/nginx-master/build/conf/nginx.conf:66
+2019/11/10 21:18:43 [emerg] 9862#0: invalid host in upstream "http://127.0.0.1:16379" in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/10 21:19:48 [emerg] 9938#0: invalid host in upstream "http://127.0.0.1:16379" in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/10 21:36:09 [emerg] 10186#0: invalid host in upstream "http://127.0.0.1:16379" in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/10 21:58:38 [emerg] 10408#0: invalid host in upstream "http://127.0.0.1:16379" in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/10 22:12:53 [emerg] 10470#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/11/10 22:19:15 [emerg] 10640#0: directive "server" has no opening "{" in /home/lzb/nginx-master/build/conf/nginx.conf:61
+2019/11/10 22:20:24 [emerg] 10684#0: directive "server" has no opening "{" in /home/lzb/nginx-master/build/conf/nginx.conf:61
+2019/11/10 22:20:56 [emerg] 10726#0: directive "server" has no opening "{" in /home/lzb/nginx-master/build/conf/nginx.conf:61
+2019/11/10 22:27:32 [emerg] 10775#0: directive "server" has no opening "{" in /home/lzb/nginx-master/build/conf/nginx.conf:61
+2019/11/11 10:20:10 [emerg] 13264#0: directive "server" has no opening "{" in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 10:22:14 [emerg] 13356#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 10:23:31 [emerg] 13397#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:34:35 [emerg] 13646#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_errlog_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_errlog_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_conf_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_regex_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_events_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_errlog_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_conf_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_regex_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_events_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_event_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_errlog_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_conf_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_regex_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_events_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_event_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_epoll_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_log_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upstream_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_static_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_autoindex_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_index_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_auth_basic_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_access_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_limit_conn_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_limit_req_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_geo_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_map_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_split_clients_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_referer_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_rewrite_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_proxy_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_fastcgi_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_uwsgi_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_scgi_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_memcached_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_empty_gif_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_browser_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upsync_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_errlog_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_conf_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_regex_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_events_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_event_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_epoll_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_log_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upstream_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_static_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_autoindex_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_index_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_auth_basic_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_access_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_limit_conn_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_limit_req_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_geo_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_map_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_split_clients_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_referer_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_rewrite_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_proxy_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_fastcgi_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_uwsgi_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_scgi_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_memcached_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_empty_gif_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_browser_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upsync_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_access_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_core_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_limit_conn_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_log_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_proxy_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_realip_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_return_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_upstream_hash_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_stream_write_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upstream_hash_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upstream_ip_hash_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upstream_least_conn_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upstream_keepalive_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_upstream_zone_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_write_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_header_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_chunked_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_range_header_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_gzip_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_postpone_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_ssi_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_charset_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_userid_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_headers_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_copy_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_range_body_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "upstream" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:38:38 [emerg] 13748#0: "ngx_http_not_modified_filter_module" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:44:10 [emerg] 13860#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 10:44:10 [emerg] 13860#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 10:44:10 [emerg] 13860#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:44:10 [emerg] 13860#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:44:10 [emerg] 13860#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:17
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_realip_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_return_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_stream_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "upstream" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "-1" ret in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:44:10 [emerg] 13860#0: "-1" ret in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:56:21 [emerg] 14030#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 10:56:21 [emerg] 14030#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 10:56:21 [emerg] 14030#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:56:21 [emerg] 14030#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:56:21 [emerg] 14030#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:17
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_realip_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_return_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "upstream" test in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "ngx_stream_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "upstream" directive is not allowed here in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "-1" ret in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:56:21 [emerg] 14030#0: "-1" ret in /home/lzb/nginx-master/build/conf/nginx.conf:23
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:58:08 [emerg] 14082#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 10:58:08 [emerg] 14082#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 10:58:08 [emerg] 14082#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:58:08 [emerg] 14082#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 10:58:08 [emerg] 14082#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:17
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 10:58:08 [emerg] 14082#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:17
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/mime.types:89
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:45
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:57
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/11/11 11:00:49 [emerg] 14151#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:61
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_realip_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_return_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "upstream" test in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:00:49 [emerg] 14151#0: "ngx_stream_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:5
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:11
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:12
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:15
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:16
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:17
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:20
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/mime.types:2
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/mime.types:89
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:21
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:22
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:30
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:33
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:35
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:43
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:44
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:45
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:47
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:48
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:49
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:53
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:54
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:57
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:59
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:61
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:63
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:65
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:67
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:70
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:72
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:74
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:75
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:76
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_errlog_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_conf_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_regex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_events_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_event_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_epoll_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_static_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_autoindex_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_index_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_auth_basic_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_access_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_limit_req_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_geo_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_map_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_split_clients_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_referer_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_rewrite_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_fastcgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_uwsgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_scgi_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_memcached_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_empty_gif_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_browser_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upsync_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_ip_hash_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_least_conn_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_keepalive_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_upstream_zone_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_write_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_chunked_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_header_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_gzip_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_postpone_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_ssi_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_charset_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_userid_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_headers_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_copy_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_range_body_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_http_not_modified_filter_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_core_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_log_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "ngx_stream_proxy_module"  in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:78
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:79
+2019/11/11 11:26:04 [emerg] 15210#0: "0" ret in /home/lzb/nginx-master/build/conf/nginx.conf:81

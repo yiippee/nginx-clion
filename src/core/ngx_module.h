@@ -221,9 +221,9 @@
 
 struct ngx_module_s {
     ngx_uint_t            ctx_index;
-    ngx_uint_t            index;
+    ngx_uint_t            index; /* 模块的唯一标识符号 */
 
-    char                 *name;
+    char                 *name; /* 模块名称 */
 
     ngx_uint_t            spare0;
     ngx_uint_t            spare1;
@@ -231,9 +231,9 @@ struct ngx_module_s {
     ngx_uint_t            version;
     const char           *signature;
 
-    void                 *ctx;
-    ngx_command_t        *commands;
-    ngx_uint_t            type;
+    void                 *ctx;  /* 模块上下文 */
+    ngx_command_t        *commands;  /* 模块支持的命令集 */
+    ngx_uint_t            type;    /* 模块类型 */
 
     ngx_int_t           (*init_master)(ngx_log_t *log);
 

@@ -154,6 +154,7 @@ ngx_conf_add_dump(ngx_conf_t *cf, ngx_str_t *filename)
 }
 
 
+// 主要工作是按行读取配置文件，并且解析成配置token数组，并将token数组进行模块commend命令集匹配和设置。
 char *
 ngx_conf_parse(ngx_conf_t *cf, ngx_str_t *filename)
 {
@@ -175,7 +176,8 @@ ngx_conf_parse(ngx_conf_t *cf, ngx_str_t *filename)
 
     if (filename) {
 
-        /* open configuration file */
+        /* open configuration file
+    打开配置文件： /usr/local/nginx/conf/nginx.conf */
 
         fd = ngx_open_file(filename->data, NGX_FILE_RDONLY, NGX_FILE_OPEN, 0);
         if (fd == NGX_INVALID_FILE) {
@@ -239,6 +241,7 @@ ngx_conf_parse(ngx_conf_t *cf, ngx_str_t *filename)
 
 
     for ( ;; ) {
+        /* 将配置信息解析成 token；仅仅是将配置文件的数据解析成一个个的单词，按行解析 */
         rc = ngx_conf_read_token(cf);
 
         /*
@@ -316,6 +319,9 @@ ngx_conf_parse(ngx_conf_t *cf, ngx_str_t *filename)
 
 
         rc = ngx_conf_handler(cf, rc);
+        // print each ret
+        ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
+                           "\"%d\" ret", rc);
 
         if (rc == NGX_ERROR) {
             goto failed;
@@ -365,6 +371,14 @@ ngx_conf_handler(ngx_conf_t *cf, ngx_int_t last)
     found = 0;
 
     for (i = 0; cf->cycle->modules[i]; i++) {
+
+        if (i == 58) {
+            ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
+                               "\"%s\" test", name->data);
+        }
+        // print each module name
+        ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
+                           "\"%s\" ", cf->cycle->modules[i]->name);
 
         cmd = cf->cycle->modules[i]->commands;
         if (cmd == NULL) {
@@ -475,7 +489,7 @@ ngx_conf_handler(ngx_conf_t *cf, ngx_int_t last)
             return NGX_ERROR;
         }
     }
-
+    // return NGX_OK;
     if (found) {
         ngx_conf_log_error(NGX_LOG_EMERG, cf, 0,
                            "\"%s\" directive is not allowed here", name->data);

@@ -42,3 +42,6 @@
 #define NGX_LINUX  1
 #endif
 
+#ifndef NGX_DEBUG
+#define NGX_DEBUG  1
+#endif
